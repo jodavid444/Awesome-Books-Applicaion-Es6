@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/jodavid444/Awesome-Books-Es6/issues"
   },
-  "homepage": "https://github.com/jodavid444/Awesome-Books-Es6#readme"
+  "homepage": "https://github.com/jodavid444/Awesome-Books-Es6#readme",
+  "devDependencies": {
+    "hint": "^7.1.3"
+  }
 }
