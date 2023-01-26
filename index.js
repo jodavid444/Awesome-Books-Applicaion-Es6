@@ -1,4 +1,3 @@
-
 import PAGE_NAVIGATION from './modules/pageNav.js';
 import { awesomeBooks, form, error } from './modules/variables.js';
 import Book from './modules/book.js';

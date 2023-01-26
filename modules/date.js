@@ -1,6 +1,6 @@
 import { date } from './variables.js';
 
-import { DateTime } from './luxon.js';
+import { DateTime } from './luxonMini.js';
 
 const DISPLAY_TIME_DATE = () => {
   const currentDate = DateTime.now();

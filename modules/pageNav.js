@@ -1,4 +1,4 @@
-import list from './arrayNav.js';
+import list from './navArr.js';
 
 const PAGE_NAVIGATION = () => {
   list.forEach((item, index) => {
