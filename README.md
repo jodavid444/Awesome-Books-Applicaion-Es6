@@ -13,11 +13,16 @@
 
 - Technologies used
 
-Github
+Github 
+
 Git
+
 WebHint
+
 Stylelint
+
 ESlint
+
 Ecma Script(Es6)
 
 ## Live Demo (if available)

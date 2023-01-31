@@ -16,7 +16,7 @@
 
 body {
   color: #000;
-  background-color: rgb(240, 245, 245);
+  background-color: #f8f8f8;
 }
 
 h2 {
@@ -25,13 +25,13 @@ h2 {
 }
 
 header {
-  border: 1px solid #d4d2d2;
+  border: 1px solid #eee;
   display: flex;
   justify-content: space-between;
   align-items: center;
   padding: 7px;
   margin-top: 2px;
-  background-color: #d3d3d3;
+  background-color: #eee;
 }
 
 header .logo a {
@@ -84,10 +84,8 @@ main {
 }
 
 #awesomeBooks {
-  border: 1px solid #3b3939;
-  border-radius: 10px;
+  border: 1px solid #d4d2d2;
   margin: 10px;
-  box-shadow: 6px 8px 10px #4e4c4c;
 }
 
 #awesomeBooks ul {
@@ -135,7 +133,7 @@ form input {
   font-size: 16px;
   font-weight: bold;
   outline: none;
-  border-radius: 10px;
+  border-radius: 1px;
 }
 
 form input:hover {
@@ -151,11 +149,14 @@ form input:hover {
   font-weight: bold;
   font-size: 16px;
   cursor: pointer;
-  background-color: #52545a;
+  background-color: rgb(44, 43, 43);
   color: #fff;
-  border: 1px solid #d3d3d3;
-  box-shadow: 2px 2px 1px #d3d3d3;
   margin-right: 5px;
+  border: none;
+}
+
+.form-btn button:hover {
+  background-color: rgb(124, 124, 124);
 }
 
 #error {
@@ -172,9 +173,9 @@ footer {
   position: absolute;
   bottom: 3px;
   width: 100%;
-  border: 1px solid #d4d2d2;
+  border: 1px solid #eee;
   padding: 10px;
-  background-color: #d3d3d3;
+  background-color: #eee;
 }
 
 footer p {
