@@ -2,7 +2,7 @@
 
 # Awesome Books Application
 
-> This is an application that always a user to store and remove books from a collection and also implemented local storage to preserve peice of data.
+> This is a restructured awsome book application using modules and ecma script [ES6] to organized all peice of code in the application. It always a user to store and remove books from a collection and also I implemented local storage to preserve peice of data.
 
 
 ## Built With
